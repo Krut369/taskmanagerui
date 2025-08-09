@@ -8,6 +8,7 @@ This project focuses on clean design, smooth user experience, and maintainable F
 ## 📱 Demo
 
 🎥 **Watch the Demo Video**: [View on Google Drive](https://drive.google.com/file/d/1Efoyvb9B0h0b88F7L7vdgDoNBGStdesl/view?usp=drive_link)
+[![Watch the Demo](assets/demo_thumbnail.png)](https://drive.google.com/file/d/1Efoyvb9B0h0b88F7L7vdgDoNBGStdesl/view?usp=drive_link)
 
 ---
 
