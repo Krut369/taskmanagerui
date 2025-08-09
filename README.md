@@ -1,16 +1,29 @@
-# taskmanagerui
+# 📋 Task Manager UI
 
-A new Flutter project.
+A simple and modern **Flutter-based Task Manager UI** designed to help you organize and track your tasks efficiently.  
+This project focuses on clean design, smooth user experience, and maintainable Flutter code.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Demo
 
-A few resources to get you started if this is your first Flutter project:
+🎥 **Watch the Demo Video**: [View on Google Drive](https://drive.google.com/file/d/1Efoyvb9B0h0b88F7L7vdgDoNBGStdesl/view?usp=drive_link)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✨ Features
+
+- 📝 Add, edit, and delete tasks
+- 🎨 Modern Material 3 UI with custom theme
+- 📅 Task categorization for better organization
+- 📱 Responsive layout for multiple screen sizes
+- 🔍 Easy navigation and clean design
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/Krut369/taskmanagerui.git
+cd taskmanagerui
